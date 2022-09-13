@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\wamp64\\www\\ProjectEdXW3"
+    },
+    {
+      "path": "..\\JavascriptCSE121B"
+    },
+    {
+      "path": "..\\WebFundamentalsWDD130"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "../WDD230"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "WDD230"
+  }
+}
